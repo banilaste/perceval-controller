@@ -1,0 +1,6 @@
+bin/
+.settings (1)
+.project
+.classpath
+desktop.ini
+src/Test.java
